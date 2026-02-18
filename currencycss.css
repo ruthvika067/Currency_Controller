@@ -1,0 +1,70 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #002366; /* Royal Blue background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  color: white;
+}
+
+.container {
+  background: #003399; /* Slightly lighter royal blue */
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  width: 320px;
+  color: white;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+
+.converter input,
+.converter select {
+  width: 100%;
+  margin-top: 12px;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  font-size: 16px;
+  background: #ffffff;
+  color: #002366;
+  font-weight: bold;
+}
+
+.converter .to-text {
+  display: inline-block;
+  margin: 12px 0;
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.converter button {
+  width: 100%;
+  margin-top: 15px;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  background-color: #ffffff;
+  color: #002366;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.converter button:hover {
+  background-color: #dce6ff;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffffff;
+}
