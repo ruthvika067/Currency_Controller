@@ -37,8 +37,7 @@ Enter amount and click Convert
 
 🖼️ Output
 
-<img width="1366" height="768" alt="Screenshot (1262)" src="https://github.com/user-attachments/assets/6b189978-bca5-42e9-a8bf-c78bc5c70a87" />
-
+<img width="971" height="607" alt="Screenshot (1262)" src="https://github.com/user-attachments/assets/5e4887c3-e8ea-4db4-b779-9abcbb5982a9" />
 
 👩‍💻 Author
 
